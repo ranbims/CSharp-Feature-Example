@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialTypes", "Ver2.0\Part
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableValueTypes", "Ver2.0\NullableValueTypes\NullableValueTypes.csproj", "{B242CBCC-BBB1-469D-AF6B-11490CBB2DF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterators", "Ver2.0\Iterators\Iterators.csproj", "{9AE89F1E-C514-485D-AAF9-8C502A17EC08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{B242CBCC-BBB1-469D-AF6B-11490CBB2DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B242CBCC-BBB1-469D-AF6B-11490CBB2DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B242CBCC-BBB1-469D-AF6B-11490CBB2DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE89F1E-C514-485D-AAF9-8C502A17EC08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE89F1E-C514-485D-AAF9-8C502A17EC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE89F1E-C514-485D-AAF9-8C502A17EC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE89F1E-C514-485D-AAF9-8C502A17EC08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +87,7 @@ Global
 		{C6C727B0-2698-4659-9535-080AF0ECC74F} = {1027EA2F-B2D5-4CB6-9FC2-80B538E5BA92}
 		{8054E7EB-5B01-49C1-B683-73656E6CBFFF} = {1027EA2F-B2D5-4CB6-9FC2-80B538E5BA92}
 		{B242CBCC-BBB1-469D-AF6B-11490CBB2DF0} = {1027EA2F-B2D5-4CB6-9FC2-80B538E5BA92}
+		{9AE89F1E-C514-485D-AAF9-8C502A17EC08} = {1027EA2F-B2D5-4CB6-9FC2-80B538E5BA92}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {129E86E3-410D-4C4D-977A-308E85AD9C09}
