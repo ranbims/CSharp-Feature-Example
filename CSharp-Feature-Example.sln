@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ver1.0", "Ver1.0", "{048491
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structs", "Ver1.0\Structs\Structs.csproj", "{B58F719C-A9F3-4C39-A1C3-EFC5CE8FFAC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Ver1.0\Interfaces\Interfaces.csproj", "{2021EE03-5C87-42D6-9161-CB1FBEE34EAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{B58F719C-A9F3-4C39-A1C3-EFC5CE8FFAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B58F719C-A9F3-4C39-A1C3-EFC5CE8FFAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B58F719C-A9F3-4C39-A1C3-EFC5CE8FFAC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2021EE03-5C87-42D6-9161-CB1FBEE34EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2021EE03-5C87-42D6-9161-CB1FBEE34EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2021EE03-5C87-42D6-9161-CB1FBEE34EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2021EE03-5C87-42D6-9161-CB1FBEE34EAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{EC5A1C70-38A8-4CBC-83F3-6DCEABC13146} = {04849134-FC39-4995-B9F2-847419A3F728}
 		{B58F719C-A9F3-4C39-A1C3-EFC5CE8FFAC7} = {04849134-FC39-4995-B9F2-847419A3F728}
+		{2021EE03-5C87-42D6-9161-CB1FBEE34EAB} = {04849134-FC39-4995-B9F2-847419A3F728}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {129E86E3-410D-4C4D-977A-308E85AD9C09}
