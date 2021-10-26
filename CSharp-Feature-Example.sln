@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoImplementedProperties",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousTypes", "Ver3.0\AnonymousTypes\AnonymousTypes.csproj", "{4BCBCC26-5B0F-447D-B4D9-568D43226E59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "Ver3.0\LINQ\LINQ.csproj", "{953B850C-825B-4723-AB36-FC98C83DB81B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{4BCBCC26-5B0F-447D-B4D9-568D43226E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BCBCC26-5B0F-447D-B4D9-568D43226E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BCBCC26-5B0F-447D-B4D9-568D43226E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953B850C-825B-4723-AB36-FC98C83DB81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953B850C-825B-4723-AB36-FC98C83DB81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953B850C-825B-4723-AB36-FC98C83DB81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953B850C-825B-4723-AB36-FC98C83DB81B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -111,6 +117,7 @@ Global
 		{C7183AED-02BA-48EB-91E3-F99E31ED0281} = {1027EA2F-B2D5-4CB6-9FC2-80B538E5BA92}
 		{92F78F7F-7EF8-41D6-AC55-1FA9982565B9} = {708199C0-D495-4893-A50F-0ED69160CD8B}
 		{4BCBCC26-5B0F-447D-B4D9-568D43226E59} = {708199C0-D495-4893-A50F-0ED69160CD8B}
+		{953B850C-825B-4723-AB36-FC98C83DB81B} = {708199C0-D495-4893-A50F-0ED69160CD8B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {129E86E3-410D-4C4D-977A-308E85AD9C09}
