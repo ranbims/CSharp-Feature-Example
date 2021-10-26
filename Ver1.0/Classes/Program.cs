@@ -19,8 +19,19 @@ namespace Classes
                 Name = name;
             }
 
-            // Auto-implemented readonly property:
-            public string Name { get; }
+            private string name;
+
+            public string Name 
+            { 
+                get
+                {
+                    return name;
+                }
+                set
+                {
+                    name = value;
+                }
+            }
 
             // Method that overrides the base class (System.Object) implementation.
             public override string ToString()

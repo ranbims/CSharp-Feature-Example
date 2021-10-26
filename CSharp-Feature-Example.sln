@@ -19,15 +19,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attributes", "Ver1.0\Attrib
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ver2.0", "Ver2.0", "{1027EA2F-B2D5-4CB6-9FC2-80B538E5BA92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Ver2.0\Generics\Generics.csproj", "{C6C727B0-2698-4659-9535-080AF0ECC74F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Ver2.0\Generics\Generics.csproj", "{C6C727B0-2698-4659-9535-080AF0ECC74F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialTypes", "Ver2.0\PartialTypes\PartialTypes.csproj", "{8054E7EB-5B01-49C1-B683-73656E6CBFFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartialTypes", "Ver2.0\PartialTypes\PartialTypes.csproj", "{8054E7EB-5B01-49C1-B683-73656E6CBFFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableValueTypes", "Ver2.0\NullableValueTypes\NullableValueTypes.csproj", "{B242CBCC-BBB1-469D-AF6B-11490CBB2DF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableValueTypes", "Ver2.0\NullableValueTypes\NullableValueTypes.csproj", "{B242CBCC-BBB1-469D-AF6B-11490CBB2DF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterators", "Ver2.0\Iterators\Iterators.csproj", "{9AE89F1E-C514-485D-AAF9-8C502A17EC08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterators", "Ver2.0\Iterators\Iterators.csproj", "{9AE89F1E-C514-485D-AAF9-8C502A17EC08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovarianceAndContravariance", "Ver2.0\CovarianceAndContravariance\CovarianceAndContravariance.csproj", "{C7183AED-02BA-48EB-91E3-F99E31ED0281}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CovarianceAndContravariance", "Ver2.0\CovarianceAndContravariance\CovarianceAndContravariance.csproj", "{C7183AED-02BA-48EB-91E3-F99E31ED0281}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ver3.0", "Ver3.0", "{708199C0-D495-4893-A50F-0ED69160CD8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoImplementedProperties", "Ver3.0\AutoImplementedProperties\AutoImplementedProperties.csproj", "{92F78F7F-7EF8-41D6-AC55-1FA9982565B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -79,6 +83,10 @@ Global
 		{C7183AED-02BA-48EB-91E3-F99E31ED0281}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7183AED-02BA-48EB-91E3-F99E31ED0281}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7183AED-02BA-48EB-91E3-F99E31ED0281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F78F7F-7EF8-41D6-AC55-1FA9982565B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F78F7F-7EF8-41D6-AC55-1FA9982565B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F78F7F-7EF8-41D6-AC55-1FA9982565B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F78F7F-7EF8-41D6-AC55-1FA9982565B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +103,7 @@ Global
 		{B242CBCC-BBB1-469D-AF6B-11490CBB2DF0} = {1027EA2F-B2D5-4CB6-9FC2-80B538E5BA92}
 		{9AE89F1E-C514-485D-AAF9-8C502A17EC08} = {1027EA2F-B2D5-4CB6-9FC2-80B538E5BA92}
 		{C7183AED-02BA-48EB-91E3-F99E31ED0281} = {1027EA2F-B2D5-4CB6-9FC2-80B538E5BA92}
+		{92F78F7F-7EF8-41D6-AC55-1FA9982565B9} = {708199C0-D495-4893-A50F-0ED69160CD8B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {129E86E3-410D-4C4D-977A-308E85AD9C09}
