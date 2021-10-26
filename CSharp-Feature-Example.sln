@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda", "Ver3.0\Lambda\Lam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTrees(Todo)", "Ver3.0\ExpressionTrees\ExpressionTrees(Todo).csproj", "{10A5E044-E0D1-425C-89B7-704E3B6F7F4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "Ver3.0\ExtensionMethods\ExtensionMethods.csproj", "{16756E16-2C66-480C-98B8-96DEC0E345D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{10A5E044-E0D1-425C-89B7-704E3B6F7F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10A5E044-E0D1-425C-89B7-704E3B6F7F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10A5E044-E0D1-425C-89B7-704E3B6F7F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16756E16-2C66-480C-98B8-96DEC0E345D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16756E16-2C66-480C-98B8-96DEC0E345D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16756E16-2C66-480C-98B8-96DEC0E345D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16756E16-2C66-480C-98B8-96DEC0E345D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -132,6 +138,7 @@ Global
 		{953B850C-825B-4723-AB36-FC98C83DB81B} = {708199C0-D495-4893-A50F-0ED69160CD8B}
 		{60D214D1-6EB5-4D6C-A6CA-6BB9AF4B58DE} = {708199C0-D495-4893-A50F-0ED69160CD8B}
 		{10A5E044-E0D1-425C-89B7-704E3B6F7F4A} = {708199C0-D495-4893-A50F-0ED69160CD8B}
+		{16756E16-2C66-480C-98B8-96DEC0E345D2} = {708199C0-D495-4893-A50F-0ED69160CD8B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {129E86E3-410D-4C4D-977A-308E85AD9C09}
