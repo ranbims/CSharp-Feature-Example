@@ -31,23 +31,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CovarianceAndContravariance
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ver3.0", "Ver3.0", "{708199C0-D495-4893-A50F-0ED69160CD8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoImplementedProperties", "Ver3.0\AutoImplementedProperties\AutoImplementedProperties.csproj", "{92F78F7F-7EF8-41D6-AC55-1FA9982565B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoImplementedProperties", "Ver3.0\AutoImplementedProperties\AutoImplementedProperties.csproj", "{92F78F7F-7EF8-41D6-AC55-1FA9982565B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousTypes", "Ver3.0\AnonymousTypes\AnonymousTypes.csproj", "{4BCBCC26-5B0F-447D-B4D9-568D43226E59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousTypes", "Ver3.0\AnonymousTypes\AnonymousTypes.csproj", "{4BCBCC26-5B0F-447D-B4D9-568D43226E59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "Ver3.0\LINQ\LINQ.csproj", "{953B850C-825B-4723-AB36-FC98C83DB81B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "Ver3.0\LINQ\LINQ.csproj", "{953B850C-825B-4723-AB36-FC98C83DB81B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda", "Ver3.0\Lambda\Lambda.csproj", "{60D214D1-6EB5-4D6C-A6CA-6BB9AF4B58DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lambda", "Ver3.0\Lambda\Lambda.csproj", "{60D214D1-6EB5-4D6C-A6CA-6BB9AF4B58DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTrees(Todo)", "Ver3.0\ExpressionTrees\ExpressionTrees(Todo).csproj", "{10A5E044-E0D1-425C-89B7-704E3B6F7F4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionTrees(Todo)", "Ver3.0\ExpressionTrees\ExpressionTrees(Todo).csproj", "{10A5E044-E0D1-425C-89B7-704E3B6F7F4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "Ver3.0\ExtensionMethods\ExtensionMethods.csproj", "{16756E16-2C66-480C-98B8-96DEC0E345D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethods", "Ver3.0\ExtensionMethods\ExtensionMethods.csproj", "{16756E16-2C66-480C-98B8-96DEC0E345D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitlyTypedLocalVariables", "Ver3.0\ImplicitlyTypedLocalVariables\ImplicitlyTypedLocalVariables.csproj", "{67AA73B1-7B04-4C45-8746-B61BC1F55B9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplicitlyTypedLocalVariables", "Ver3.0\ImplicitlyTypedLocalVariables\ImplicitlyTypedLocalVariables.csproj", "{67AA73B1-7B04-4C45-8746-B61BC1F55B9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialMethods", "Ver3.0\PartialMethods\PartialMethods.csproj", "{7EF14452-4173-4A1C-969F-210D4F4E638C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartialMethods", "Ver3.0\PartialMethods\PartialMethods.csproj", "{7EF14452-4173-4A1C-969F-210D4F4E638C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectAndCollectionInitializers", "Ver3.0\ObjectAndCollectionInitializers\ObjectAndCollectionInitializers.csproj", "{12020035-2434-42C6-B773-D302E02CEC64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectAndCollectionInitializers", "Ver3.0\ObjectAndCollectionInitializers\ObjectAndCollectionInitializers.csproj", "{12020035-2434-42C6-B773-D302E02CEC64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ver4.0", "Ver4.0", "{71F9CAEE-BEE5-4EB6-B6EF-5E717C7F23E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicTypes", "Ver4.0\DynamicTypes\DynamicTypes.csproj", "{6704E09D-AD1D-4780-8C08-3C5A03D1B93C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +139,10 @@ Global
 		{12020035-2434-42C6-B773-D302E02CEC64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12020035-2434-42C6-B773-D302E02CEC64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12020035-2434-42C6-B773-D302E02CEC64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6704E09D-AD1D-4780-8C08-3C5A03D1B93C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6704E09D-AD1D-4780-8C08-3C5A03D1B93C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6704E09D-AD1D-4780-8C08-3C5A03D1B93C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6704E09D-AD1D-4780-8C08-3C5A03D1B93C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -160,6 +168,7 @@ Global
 		{67AA73B1-7B04-4C45-8746-B61BC1F55B9C} = {708199C0-D495-4893-A50F-0ED69160CD8B}
 		{7EF14452-4173-4A1C-969F-210D4F4E638C} = {708199C0-D495-4893-A50F-0ED69160CD8B}
 		{12020035-2434-42C6-B773-D302E02CEC64} = {708199C0-D495-4893-A50F-0ED69160CD8B}
+		{6704E09D-AD1D-4780-8C08-3C5A03D1B93C} = {71F9CAEE-BEE5-4EB6-B6EF-5E717C7F23E9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {129E86E3-410D-4C4D-977A-308E85AD9C09}
