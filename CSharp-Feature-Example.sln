@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCovariantAndContrava
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbeddedInteropTypes(Todo)", "Ver4.0\EmbeddedInteropTypes(Todo)\EmbeddedInteropTypes(Todo).csproj", "{94D86157-A49D-4AA1-BA47-98AC0C0E87CD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ver5.0", "Ver5.0", "{9DFA2AF8-A8B5-4CBD-AB26-DA4AD68E521B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallerInfoAttributes", "Ver5.0\CallerInfoAttributes\CallerInfoAttributes.csproj", "{319733AE-E3D7-4F44-90C0-079085523FC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +171,10 @@ Global
 		{94D86157-A49D-4AA1-BA47-98AC0C0E87CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94D86157-A49D-4AA1-BA47-98AC0C0E87CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94D86157-A49D-4AA1-BA47-98AC0C0E87CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{319733AE-E3D7-4F44-90C0-079085523FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319733AE-E3D7-4F44-90C0-079085523FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319733AE-E3D7-4F44-90C0-079085523FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319733AE-E3D7-4F44-90C0-079085523FC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -197,6 +205,7 @@ Global
 		{23C06EA2-9A93-461E-9CD8-836FE2071DE9} = {71F9CAEE-BEE5-4EB6-B6EF-5E717C7F23E9}
 		{1635D19B-CA4C-4F43-B170-506057D78008} = {71F9CAEE-BEE5-4EB6-B6EF-5E717C7F23E9}
 		{94D86157-A49D-4AA1-BA47-98AC0C0E87CD} = {71F9CAEE-BEE5-4EB6-B6EF-5E717C7F23E9}
+		{319733AE-E3D7-4F44-90C0-079085523FC1} = {9DFA2AF8-A8B5-4CBD-AB26-DA4AD68E521B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {129E86E3-410D-4C4D-977A-308E85AD9C09}
