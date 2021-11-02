@@ -36,4 +36,8 @@ This is a repo that shows C# code examples of different features. These features
 - Embedded interop types (Todo)
 
 ## Version 5.0
+- [Asynchronous members](./Ver5.0/AsynchronousMembers/Program.cs)
 - [Caller Info Attributes](./Ver5.0/CallerInfoAttributes/Program.cs)
+
+## Version 6.0
+- [Static imports](./Ver6.0/StaticImports/Program.cs)
