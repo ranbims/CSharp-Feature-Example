@@ -88,6 +88,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterpolation", "Ver6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameOf", "Ver6.0\NameOf\NameOf.csproj", "{5CF3CC3E-4D75-4145-A36E-E385CF2B603C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexInitializers", "Ver6.0\IndexInitializers\IndexInitializers.csproj", "{33520A32-0625-43C4-A8D2-70A63A1EB1F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -230,6 +232,10 @@ Global
 		{5CF3CC3E-4D75-4145-A36E-E385CF2B603C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CF3CC3E-4D75-4145-A36E-E385CF2B603C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CF3CC3E-4D75-4145-A36E-E385CF2B603C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33520A32-0625-43C4-A8D2-70A63A1EB1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33520A32-0625-43C4-A8D2-70A63A1EB1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33520A32-0625-43C4-A8D2-70A63A1EB1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33520A32-0625-43C4-A8D2-70A63A1EB1F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -269,6 +275,7 @@ Global
 		{42EEF95D-D259-40CA-820D-6B388EFAB673} = {5FCC1632-1CAC-421D-930A-F710CF86719E}
 		{8C622542-E2D2-4A1D-AB23-F2F7135F8CEB} = {5FCC1632-1CAC-421D-930A-F710CF86719E}
 		{5CF3CC3E-4D75-4145-A36E-E385CF2B603C} = {5FCC1632-1CAC-421D-930A-F710CF86719E}
+		{33520A32-0625-43C4-A8D2-70A63A1EB1F8} = {5FCC1632-1CAC-421D-930A-F710CF86719E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {129E86E3-410D-4C4D-977A-308E85AD9C09}

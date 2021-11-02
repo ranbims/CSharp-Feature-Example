@@ -47,3 +47,4 @@ This is a repo that shows C# code examples of different features. These features
 - [Null propagator](./Ver6.0/NullPropagator/Program.cs)
 - [String interpolation](./Ver6.0/StringInterpolation/Program.cs)
 - [nameof operator](./Ver6.0/NameOf/Program.cs)
+- [Index initializers](./Ver6.0/IndexInitializers/Program.cs)
