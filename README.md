@@ -45,3 +45,5 @@ This is a repo that shows C# code examples of different features. These features
 - [Auto-property initializers](./Ver6.0/AutoPropertyInitializer/Program.cs)
 - [Expression bodied members](./Ver6.0/AutoPropertyInitializer/Program.cs)
 - [Null propagator](./Ver6.0/NullPropagator/Program.cs)
+- [String interpolation](./Ver6.0/StringInterpolation/Program.cs)
+- [nameof operator](./Ver6.0/NameOf/Program.cs)
