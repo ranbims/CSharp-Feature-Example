@@ -44,3 +44,4 @@ This is a repo that shows C# code examples of different features. These features
 - [Exception filters](./Ver6.0/ExceptionFilters/Program.cs)
 - [Auto-property initializers](./Ver6.0/AutoPropertyInitializer/Program.cs)
 - [Expression bodied members](./Ver6.0/AutoPropertyInitializer/Program.cs)
+- [Null propagator](./Ver6.0/NullPropagator/Program.cs)
