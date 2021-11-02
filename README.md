@@ -41,3 +41,6 @@ This is a repo that shows C# code examples of different features. These features
 
 ## Version 6.0
 - [Static imports](./Ver6.0/StaticImports/Program.cs)
+- [Exception filters](./Ver6.0/ExceptionFilters/Program.cs)
+- [Auto-property initializers](./Ver6.0/AutoPropertyInitializer/Program.cs)
+- [Expression bodied members](./Ver6.0/AutoPropertyInitializer/Program.cs)
