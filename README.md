@@ -48,3 +48,12 @@ This is a repo that shows C# code examples of different features. These features
 - [String interpolation](./Ver6.0/StringInterpolation/Program.cs)
 - [nameof operator](./Ver6.0/NameOf/Program.cs)
 - [Index initializers](./Ver6.0/IndexInitializers/Program.cs)
+
+## Version 7.0
+- [Out variables](./Ver7.0/OutVariables/Program.cs)
+- [Tuples and Discards](./Ver7.0/TuplesAndDiscards/Program.cs)
+- [Pattern matching](./Ver7.0/PatternMatching/Program.cs)
+- [Local functions](./Ver7.0/LocalFunctions/Program.cs)
+- [More expression bodied members](./Ver7.0/MoreExpressionBodiedMembers/Program.cs)
+- [Ref locals and resturns](./Ver7.0/RefLocalsAndReturns/Program.cs)
+- [The `throw` expression](./Ver7.0/ThrowExpressions/Program.cs)
