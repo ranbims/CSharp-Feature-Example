@@ -57,3 +57,6 @@ This is a repo that shows C# code examples of different features. These features
 - [More expression bodied members](./Ver7.0/MoreExpressionBodiedMembers/Program.cs)
 - [Ref locals and resturns](./Ver7.0/RefLocalsAndReturns/Program.cs)
 - [The `throw` expression](./Ver7.0/ThrowExpressions/Program.cs)
+
+## Version 7.1
+- [Async main](./Ver7.1/AsyncMain/Program.cs)

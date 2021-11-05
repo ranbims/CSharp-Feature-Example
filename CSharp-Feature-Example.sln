@@ -92,19 +92,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndexInitializers", "Ver6.0
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ver7.0", "Ver7.0", "{7B69AC80-B0E1-4635-BC23-3416BC8F54DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutVariables", "Ver7.0\OutVariables\OutVariables.csproj", "{7CC1466A-BD09-4FA3-B4A3-8DE525B28722}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutVariables", "Ver7.0\OutVariables\OutVariables.csproj", "{7CC1466A-BD09-4FA3-B4A3-8DE525B28722}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuplesAndDiscards", "Ver7.0\TuplesAndDiscards\TuplesAndDiscards.csproj", "{D478F365-05D5-4DF4-BD0D-C41ADF08FF6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TuplesAndDiscards", "Ver7.0\TuplesAndDiscards\TuplesAndDiscards.csproj", "{D478F365-05D5-4DF4-BD0D-C41ADF08FF6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternMatching", "Ver7.0\PatternMatching\PatternMatching.csproj", "{10E172D9-8B54-41A2-BFC0-25EEE48DA79B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatternMatching", "Ver7.0\PatternMatching\PatternMatching.csproj", "{10E172D9-8B54-41A2-BFC0-25EEE48DA79B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalFunctions", "Ver7.0\LocalFunctions\LocalFunctions.csproj", "{1CF94A40-3635-49EC-84D4-72CA29FC0F89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalFunctions", "Ver7.0\LocalFunctions\LocalFunctions.csproj", "{1CF94A40-3635-49EC-84D4-72CA29FC0F89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreExpressionBodiedMembers", "Ver7.0\MoreExpressionBodiedMembers\MoreExpressionBodiedMembers.csproj", "{78FCE889-3140-4961-9E5F-9A1BEA931B73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreExpressionBodiedMembers", "Ver7.0\MoreExpressionBodiedMembers\MoreExpressionBodiedMembers.csproj", "{78FCE889-3140-4961-9E5F-9A1BEA931B73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefLocalsAndReturns", "Ver7.0\RefLocalsAndReturns\RefLocalsAndReturns.csproj", "{CCDDC029-C96B-4EE7-B83D-F68D7A90B87B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefLocalsAndReturns", "Ver7.0\RefLocalsAndReturns\RefLocalsAndReturns.csproj", "{CCDDC029-C96B-4EE7-B83D-F68D7A90B87B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThrowExpressions", "Ver7.0\ThrowExpressions\ThrowExpressions.csproj", "{70105F88-C6FF-429A-A352-FF1E48CEBE68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThrowExpressions", "Ver7.0\ThrowExpressions\ThrowExpressions.csproj", "{70105F88-C6FF-429A-A352-FF1E48CEBE68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ver7.1", "Ver7.1", "{B5979CCD-24AA-45CF-9448-1931C383DA37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncMain", "Ver7.1\AsyncMain\AsyncMain.csproj", "{9F742447-2E52-4F78-8E2F-00379BD19BEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -280,6 +284,10 @@ Global
 		{70105F88-C6FF-429A-A352-FF1E48CEBE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70105F88-C6FF-429A-A352-FF1E48CEBE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70105F88-C6FF-429A-A352-FF1E48CEBE68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F742447-2E52-4F78-8E2F-00379BD19BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F742447-2E52-4F78-8E2F-00379BD19BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F742447-2E52-4F78-8E2F-00379BD19BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F742447-2E52-4F78-8E2F-00379BD19BEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -327,6 +335,7 @@ Global
 		{78FCE889-3140-4961-9E5F-9A1BEA931B73} = {7B69AC80-B0E1-4635-BC23-3416BC8F54DD}
 		{CCDDC029-C96B-4EE7-B83D-F68D7A90B87B} = {7B69AC80-B0E1-4635-BC23-3416BC8F54DD}
 		{70105F88-C6FF-429A-A352-FF1E48CEBE68} = {7B69AC80-B0E1-4635-BC23-3416BC8F54DD}
+		{9F742447-2E52-4F78-8E2F-00379BD19BEA} = {B5979CCD-24AA-45CF-9448-1931C383DA37}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {129E86E3-410D-4C4D-977A-308E85AD9C09}
