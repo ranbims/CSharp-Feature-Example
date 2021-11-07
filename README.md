@@ -62,3 +62,6 @@ This is a repo that shows C# code examples of different features. These features
 - [Async main](./Ver7.1/AsyncMain/Program.cs)
 - [Default literal expressions](./Ver7.1/DefaultLiteralExpressions/Program.cs)
 - [Pattern matching for generic types](./Ver7.1/PatternMachingForGenericType/Program.cs)
+
+## Version 7.3
+- [Unmanaged constraints](./Ver7.3/UnmanagedConstraints/Program.cs)
