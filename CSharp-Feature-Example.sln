@@ -126,6 +126,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultInterfaceMethods", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnhancedPatternMatching", "Ver8.0\EnhancedPatternMatching\EnhancedPatternMatching.csproj", "{D946323C-7506-4D3F-A203-2FAC9C04AEEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingDeclarations", "Ver8.0\UsingDeclarations\UsingDeclarations.csproj", "{8335DAB1-1E5C-42D1-9A91-C39114C66054}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -328,6 +330,10 @@ Global
 		{D946323C-7506-4D3F-A203-2FAC9C04AEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D946323C-7506-4D3F-A203-2FAC9C04AEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D946323C-7506-4D3F-A203-2FAC9C04AEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8335DAB1-1E5C-42D1-9A91-C39114C66054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8335DAB1-1E5C-42D1-9A91-C39114C66054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8335DAB1-1E5C-42D1-9A91-C39114C66054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8335DAB1-1E5C-42D1-9A91-C39114C66054}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -382,6 +388,7 @@ Global
 		{CEBFFA54-8699-4E2A-AB72-CDF80A962C0E} = {6AD82272-6C0F-4751-B03A-F023AAB7D9F0}
 		{C46B7D37-A9FF-463B-850D-3C078E87DFF8} = {AC0CBC93-522B-4C19-A2C8-118074275E3B}
 		{D946323C-7506-4D3F-A203-2FAC9C04AEEB} = {AC0CBC93-522B-4C19-A2C8-118074275E3B}
+		{8335DAB1-1E5C-42D1-9A91-C39114C66054} = {AC0CBC93-522B-4C19-A2C8-118074275E3B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {129E86E3-410D-4C4D-977A-308E85AD9C09}
