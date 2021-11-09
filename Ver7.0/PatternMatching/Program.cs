@@ -7,7 +7,7 @@ namespace PatternMatching
         static void Main(string[] args)
         {
             SimpleUsage();
-            PerformOperation("SystemTest");    
+            // PerformOperation("SystemTest");    
         }
 
         // simple usage
@@ -20,16 +20,16 @@ namespace PatternMatching
             Console.WriteLine(sum);
         }
 
-        // Compare discrete values
-        static int PerformOperation(string command) =>
-           command switch
-           {
-               "SystemTest" => 0,
-               "Start" => 1,
-               "Stop" => 2,
-               "Reset" => 3,
-               _ => throw new ArgumentException("Invalid string value for command", nameof(command)),
-           };
+        // Compare discrete values, see Version 8.0
+        //static int PerformOperation(string command) =>
+        //   command switch
+        //   {
+        //       "SystemTest" => 0,
+        //       "Start" => 1,
+        //       "Stop" => 2,
+        //       "Reset" => 3,
+        //       _ => throw new ArgumentException("Invalid string value for command", nameof(command)),
+        //   };
 
         // Relational patterns, see Version 9.0
         //string WaterState(int tempInFahrenheit) =>
