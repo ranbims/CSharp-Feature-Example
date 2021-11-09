@@ -66,3 +66,6 @@ This is a repo that shows C# code examples of different features. These features
 ## Version 7.3
 - [Unmanaged constraints](./Ver7.3/UnmanagedConstraints/Program.cs)
 - [Tuple compare](./Ver7.3/TupleCompare/Program.cs)
+
+## Version 8.0
+- [Default interface methods](./Ver8.0/DefaultInterfaceMethods/Program.cs)
