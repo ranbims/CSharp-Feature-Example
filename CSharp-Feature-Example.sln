@@ -128,6 +128,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnhancedPatternMatching", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingDeclarations", "Ver8.0\UsingDeclarations\UsingDeclarations.csproj", "{8335DAB1-1E5C-42D1-9A91-C39114C66054}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticLocalFunctions", "Ver8.0\StaticLocalFunctions\StaticLocalFunctions.csproj", "{27F0F72B-CECD-45F5-9635-FE05BD03473C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -334,6 +336,10 @@ Global
 		{8335DAB1-1E5C-42D1-9A91-C39114C66054}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8335DAB1-1E5C-42D1-9A91-C39114C66054}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8335DAB1-1E5C-42D1-9A91-C39114C66054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F0F72B-CECD-45F5-9635-FE05BD03473C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F0F72B-CECD-45F5-9635-FE05BD03473C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F0F72B-CECD-45F5-9635-FE05BD03473C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F0F72B-CECD-45F5-9635-FE05BD03473C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -389,6 +395,7 @@ Global
 		{C46B7D37-A9FF-463B-850D-3C078E87DFF8} = {AC0CBC93-522B-4C19-A2C8-118074275E3B}
 		{D946323C-7506-4D3F-A203-2FAC9C04AEEB} = {AC0CBC93-522B-4C19-A2C8-118074275E3B}
 		{8335DAB1-1E5C-42D1-9A91-C39114C66054} = {AC0CBC93-522B-4C19-A2C8-118074275E3B}
+		{27F0F72B-CECD-45F5-9635-FE05BD03473C} = {AC0CBC93-522B-4C19-A2C8-118074275E3B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {129E86E3-410D-4C4D-977A-308E85AD9C09}
