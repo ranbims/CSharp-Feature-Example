@@ -75,4 +75,5 @@ This is a repo that shows C# code examples of different features. These features
 - [Static local functions](./Ver8.0/StaticLocalFunctions/Program.cs)
 - [Asynchronous streams](./Ver8.0/AsynchronousStreams/Program.cs)
 - [Indices and ranges](./Ver8.0/IndicesAndRanges/Program.cs)
+- [Null-coalescing assignment](./Ver8.0/NullCoalescingAssignment/Program.cs)
 - DisposeAsync (Todo)

@@ -136,6 +136,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousStreams", "Ver8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndicesAndRanges", "Ver8.0\IndicesAndRanges\IndicesAndRanges.csproj", "{2CA96864-8A69-46E3-9B56-7A27947C31F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullCoalescingAssignment", "Ver8.0\NullCoalescingAssignment\NullCoalescingAssignment.csproj", "{0CF3582A-803F-411F-B5BE-0C56DB75C5D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -358,6 +360,10 @@ Global
 		{2CA96864-8A69-46E3-9B56-7A27947C31F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CA96864-8A69-46E3-9B56-7A27947C31F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CA96864-8A69-46E3-9B56-7A27947C31F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF3582A-803F-411F-B5BE-0C56DB75C5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF3582A-803F-411F-B5BE-0C56DB75C5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF3582A-803F-411F-B5BE-0C56DB75C5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF3582A-803F-411F-B5BE-0C56DB75C5D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -417,6 +423,7 @@ Global
 		{B16ACA62-41A1-41C4-B582-1CA52D94B348} = {7B69AC80-B0E1-4635-BC23-3416BC8F54DD}
 		{579D4EE7-C4A0-4D84-9E96-B457EB552BED} = {AC0CBC93-522B-4C19-A2C8-118074275E3B}
 		{2CA96864-8A69-46E3-9B56-7A27947C31F2} = {AC0CBC93-522B-4C19-A2C8-118074275E3B}
+		{0CF3582A-803F-411F-B5BE-0C56DB75C5D4} = {AC0CBC93-522B-4C19-A2C8-118074275E3B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {129E86E3-410D-4C4D-977A-308E85AD9C09}
