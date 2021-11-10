@@ -52,6 +52,7 @@ This is a repo that shows C# code examples of different features. These features
 ## Version 7.0
 - [Out variables](./Ver7.0/OutVariables/Program.cs)
 - [Tuples and Discards](./Ver7.0/TuplesAndDiscards/Program.cs)
+- [Deconstruct](./Ver7.0/Deconstruct/Program.cs)
 - [Pattern matching](./Ver7.0/PatternMatching/Program.cs)
 - [Local functions](./Ver7.0/LocalFunctions/Program.cs)
 - [More expression bodied members](./Ver7.0/MoreExpressionBodiedMembers/Program.cs)
