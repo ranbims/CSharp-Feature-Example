@@ -74,3 +74,4 @@ This is a repo that shows C# code examples of different features. These features
 - [Using Declarations](./Ver8.0/UsingDeclarations/Program.cs)
 - [Static local functions](./Ver8.0/StaticLocalFunctions/Program.cs)
 - [Asynchronous streams](./Ver8.0/AsynchronousStreams/Program.cs)
+- DisposeAsync (Todo)
