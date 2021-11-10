@@ -73,3 +73,4 @@ This is a repo that shows C# code examples of different features. These features
 - [Enhanced pattern matching(Todo)](./Ver8.0/EnhancedPatternMathing/Program.cs)
 - [Using Declarations](./Ver8.0/UsingDeclarations/Program.cs)
 - [Static local functions](./Ver8.0/StaticLocalFunctions/Program.cs)
+- [Asynchronous streams](./Ver8.0/AsynchronousStreams/Program.cs)

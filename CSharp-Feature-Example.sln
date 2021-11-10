@@ -132,6 +132,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticLocalFunctions", "Ver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deconstruct", "Ver7.0\Deconstruct\Deconstruct.csproj", "{B16ACA62-41A1-41C4-B582-1CA52D94B348}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousStreams", "Ver8.0\AsynchronousStreams\AsynchronousStreams.csproj", "{579D4EE7-C4A0-4D84-9E96-B457EB552BED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -346,6 +348,10 @@ Global
 		{B16ACA62-41A1-41C4-B582-1CA52D94B348}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B16ACA62-41A1-41C4-B582-1CA52D94B348}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B16ACA62-41A1-41C4-B582-1CA52D94B348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579D4EE7-C4A0-4D84-9E96-B457EB552BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579D4EE7-C4A0-4D84-9E96-B457EB552BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579D4EE7-C4A0-4D84-9E96-B457EB552BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579D4EE7-C4A0-4D84-9E96-B457EB552BED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -403,6 +409,7 @@ Global
 		{8335DAB1-1E5C-42D1-9A91-C39114C66054} = {AC0CBC93-522B-4C19-A2C8-118074275E3B}
 		{27F0F72B-CECD-45F5-9635-FE05BD03473C} = {AC0CBC93-522B-4C19-A2C8-118074275E3B}
 		{B16ACA62-41A1-41C4-B582-1CA52D94B348} = {7B69AC80-B0E1-4635-BC23-3416BC8F54DD}
+		{579D4EE7-C4A0-4D84-9E96-B457EB552BED} = {AC0CBC93-522B-4C19-A2C8-118074275E3B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {129E86E3-410D-4C4D-977A-308E85AD9C09}
