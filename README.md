@@ -84,3 +84,4 @@ This is a repo that shows C# code examples of different features. These features
 - [Init only setters](./Ver9.0/InitOnlySetters/Program.cs)
 - [Pattern matching enhancements](./Ver9.0/PatternMatchingEnhancements/Program.cs)
 - [Enhanced `new` expressions](./Ver9.0/EnhancedNewExpressions/Program.cs)
+- Support for code generators (Todo)
