@@ -81,3 +81,4 @@ This is a repo that shows C# code examples of different features. These features
 ## Version 9.0
 - [Record types](./Ver9.0/RecordTypes/Program.cs)
 - [Init only setters](./Ver9.0/InitOnlySetters/Program.cs)
+- [Top level statements](./Ver9.0/TopLevelStatements/Program.cs)
