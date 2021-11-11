@@ -78,7 +78,8 @@ This is a repo that shows C# code examples of different features. These features
 - [Null-coalescing assignment](./Ver8.0/NullCoalescingAssignment/Program.cs)
 - DisposeAsync (Todo)
 
-## Version 9.0
+## Version 9.0 (It looks more like Python from this version.)
 - [Record types](./Ver9.0/RecordTypes/Program.cs)
 - [Init only setters](./Ver9.0/InitOnlySetters/Program.cs)
 - [Top level statements](./Ver9.0/TopLevelStatements/Program.cs)
+- [Pattern matching enhancements](./Ver9.0/PatternMatchingEnhancements/Program.cs)
