@@ -148,6 +148,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLevelStatements", "Ver9.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternMatchingEnhancements", "Ver9.0\PatternMatchingEnhancements\PatternMatchingEnhancements.csproj", "{D73FC3F5-751E-4F7B-9851-64BD548BD397}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnhancedNewExpressions", "Ver9.0\EnhancedNewExpressions\EnhancedNewExpressions.csproj", "{A5D79915-1814-4C11-A0E8-7B07E4C4AF6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -390,6 +392,10 @@ Global
 		{D73FC3F5-751E-4F7B-9851-64BD548BD397}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D73FC3F5-751E-4F7B-9851-64BD548BD397}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D73FC3F5-751E-4F7B-9851-64BD548BD397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5D79915-1814-4C11-A0E8-7B07E4C4AF6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D79915-1814-4C11-A0E8-7B07E4C4AF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D79915-1814-4C11-A0E8-7B07E4C4AF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D79915-1814-4C11-A0E8-7B07E4C4AF6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -454,6 +460,7 @@ Global
 		{3631C0DB-9095-4C5C-BF1A-D11D291890D7} = {CAF43498-F342-4A69-83E4-1F8956F88055}
 		{E0A5EDE4-248C-445C-9256-19160153F4D1} = {CAF43498-F342-4A69-83E4-1F8956F88055}
 		{D73FC3F5-751E-4F7B-9851-64BD548BD397} = {CAF43498-F342-4A69-83E4-1F8956F88055}
+		{A5D79915-1814-4C11-A0E8-7B07E4C4AF6B} = {CAF43498-F342-4A69-83E4-1F8956F88055}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {129E86E3-410D-4C4D-977A-308E85AD9C09}

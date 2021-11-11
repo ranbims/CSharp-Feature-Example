@@ -79,7 +79,8 @@ This is a repo that shows C# code examples of different features. These features
 - DisposeAsync (Todo)
 
 ## Version 9.0 (It looks more like Python from this version.)
+- [Top level statements](./Ver9.0/TopLevelStatements/Program.cs)
 - [Record types](./Ver9.0/RecordTypes/Program.cs)
 - [Init only setters](./Ver9.0/InitOnlySetters/Program.cs)
-- [Top level statements](./Ver9.0/TopLevelStatements/Program.cs)
 - [Pattern matching enhancements](./Ver9.0/PatternMatchingEnhancements/Program.cs)
+- [Enhanced `new` expressions](./Ver9.0/EnhancedNewExpressions/Program.cs)
