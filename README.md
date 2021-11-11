@@ -77,3 +77,6 @@ This is a repo that shows C# code examples of different features. These features
 - [Indices and ranges](./Ver8.0/IndicesAndRanges/Program.cs)
 - [Null-coalescing assignment](./Ver8.0/NullCoalescingAssignment/Program.cs)
 - DisposeAsync (Todo)
+
+## Version 9.0
+- [Record types](./Ver9.0/RecordTypes/Program.cs)
