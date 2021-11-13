@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31410.357
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31903.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Ver1.0\Classes\Classes.csproj", "{EC5A1C70-38A8-4CBC-83F3-6DCEABC13146}"
 EndProject
@@ -138,17 +138,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndicesAndRanges", "Ver8.0\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullCoalescingAssignment", "Ver8.0\NullCoalescingAssignment\NullCoalescingAssignment.csproj", "{0CF3582A-803F-411F-B5BE-0C56DB75C5D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordTypes", "Ver9.0\RecordTypes\RecordTypes.csproj", "{B70DBFEF-55D8-4857-A1B2-C31353AF0EF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecordTypes", "Ver9.0\RecordTypes\RecordTypes.csproj", "{B70DBFEF-55D8-4857-A1B2-C31353AF0EF9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ver9.0", "Ver9.0", "{CAF43498-F342-4A69-83E4-1F8956F88055}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InitOnlySetters", "Ver9.0\InitOnlySetters\InitOnlySetters.csproj", "{3631C0DB-9095-4C5C-BF1A-D11D291890D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InitOnlySetters", "Ver9.0\InitOnlySetters\InitOnlySetters.csproj", "{3631C0DB-9095-4C5C-BF1A-D11D291890D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLevelStatements", "Ver9.0\TopLevelStatements\TopLevelStatements.csproj", "{E0A5EDE4-248C-445C-9256-19160153F4D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopLevelStatements", "Ver9.0\TopLevelStatements\TopLevelStatements.csproj", "{E0A5EDE4-248C-445C-9256-19160153F4D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternMatchingEnhancements", "Ver9.0\PatternMatchingEnhancements\PatternMatchingEnhancements.csproj", "{D73FC3F5-751E-4F7B-9851-64BD548BD397}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatternMatchingEnhancements", "Ver9.0\PatternMatchingEnhancements\PatternMatchingEnhancements.csproj", "{D73FC3F5-751E-4F7B-9851-64BD548BD397}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnhancedNewExpressions", "Ver9.0\EnhancedNewExpressions\EnhancedNewExpressions.csproj", "{A5D79915-1814-4C11-A0E8-7B07E4C4AF6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnhancedNewExpressions", "Ver9.0\EnhancedNewExpressions\EnhancedNewExpressions.csproj", "{A5D79915-1814-4C11-A0E8-7B07E4C4AF6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ver10.0", "Ver10.0", "{54B9BEA6-7BEC-43EB-8A08-5D42D12BA9BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalUsingDirectives", "Ver10.0\GlobalUsingDirectives\GlobalUsingDirectives.csproj", "{99C73912-8B73-4AA9-89BE-CCE51B63AA82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -396,6 +400,10 @@ Global
 		{A5D79915-1814-4C11-A0E8-7B07E4C4AF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5D79915-1814-4C11-A0E8-7B07E4C4AF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5D79915-1814-4C11-A0E8-7B07E4C4AF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C73912-8B73-4AA9-89BE-CCE51B63AA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C73912-8B73-4AA9-89BE-CCE51B63AA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C73912-8B73-4AA9-89BE-CCE51B63AA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C73912-8B73-4AA9-89BE-CCE51B63AA82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -461,6 +469,7 @@ Global
 		{E0A5EDE4-248C-445C-9256-19160153F4D1} = {CAF43498-F342-4A69-83E4-1F8956F88055}
 		{D73FC3F5-751E-4F7B-9851-64BD548BD397} = {CAF43498-F342-4A69-83E4-1F8956F88055}
 		{A5D79915-1814-4C11-A0E8-7B07E4C4AF6B} = {CAF43498-F342-4A69-83E4-1F8956F88055}
+		{99C73912-8B73-4AA9-89BE-CCE51B63AA82} = {54B9BEA6-7BEC-43EB-8A08-5D42D12BA9BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {129E86E3-410D-4C4D-977A-308E85AD9C09}

@@ -85,3 +85,6 @@ This is a repo that shows C# code examples of different features. These features
 - [Pattern matching enhancements](./Ver9.0/PatternMatchingEnhancements/Program.cs)
 - [Enhanced `new` expressions](./Ver9.0/EnhancedNewExpressions/Program.cs)
 - Support for code generators (Todo)
+
+## Version 10.0
+- [Global using directives](./Ver10.0/GlobalUsingDirectives/Program.cs)
