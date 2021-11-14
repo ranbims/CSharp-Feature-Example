@@ -16,7 +16,9 @@ namespace EnhancedPatternMatching
            };
         #endregion
 
-        #region Property patterns
+        #region Property patterns, Ref: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns#property-pattern
+        static bool IsConferenceDay(DateTime date) => date is { Year: 2020, Month: 5, Day: 19 };
+
         public class Address
         {
             public Address(String state) => State = state; 
@@ -93,6 +95,13 @@ namespace EnhancedPatternMatching
             Console.WriteLine(PerformOperation("Start"));
             Console.WriteLine(ComputeSalesTax(new Address("WA"), 0.1m));
             Console.WriteLine(GetQuadrant(new Point(0, 0)));
+
+            // Another Property pattern
+            string hello = "Hello";
+            if (hello is string { Length: 5 } s)
+            {
+                Console.WriteLine("This is another property pattern.");
+            }
         }
     }
 
