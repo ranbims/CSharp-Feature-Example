@@ -89,3 +89,4 @@ This is a repo that shows C# code examples of different features. These features
 ## Version 10.0
 - [Global using directives](./Ver10.0/GlobalUsingDirectives/Program.cs)
 - [File scoped namespaces](./Ver10.0/FileScopedNamespace/Program.cs)
+- [Lambda expression improvements](./Ver10.0/LambdaExpressionImprovements/Program.cs)

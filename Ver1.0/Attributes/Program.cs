@@ -2,11 +2,12 @@
 
 namespace Attributes
 {
-    class Program
+    public class Program
     {
         // Multiuse attribute.  
         [System.AttributeUsage(System.AttributeTargets.Class |
-                               System.AttributeTargets.Struct,
+                               System.AttributeTargets.Struct |
+                               System.AttributeTargets.Method,
                                AllowMultiple = true)  // Multiuse attribute.  
         ]
         public class Author : System.Attribute
@@ -48,7 +49,7 @@ namespace Attributes
             // ...  
         }
 
-        private static void PrintAuthorInfo(System.Type t)
+        public static void PrintAuthorInfo(System.Type t)
         {
             System.Console.WriteLine("Author information for {0}", t);
 

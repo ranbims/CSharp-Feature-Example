@@ -15,6 +15,7 @@ namespace AsynchronousMembers
     {
         static async Task Main(string[] args)
         {
+            //MultiTaskExample.TestMultiTaskWithSemaphoreSlim();
             Coffee cup = PourCoffee();
             Console.WriteLine("coffee is ready");
 
